@@ -14,6 +14,7 @@ void updateNum(int *arr, int n){
                 start++;
             }
             else{
+                //12345
                 arr[end]=temp;
                 temp++;
                 end--;
